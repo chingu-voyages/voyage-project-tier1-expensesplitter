@@ -160,7 +160,7 @@ implement to enhance this app, if time permits.
   - [ ] Responsive design ensures functionality across various devices and screen sizes
 
 - Export Functionality
-  - [ ] Users should have the ability to export the data as (e.g., PDF, Excel or Chart)
+  - [ ] Users should have the ability to export the data as (e.g., PDF, Excel)
 
 ## Acknowledgements
 
