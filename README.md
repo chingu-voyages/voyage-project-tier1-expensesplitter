@@ -148,7 +148,7 @@ implement to enhance this app, if time permits.
 
 - Summary and Visualization
 
-  - [ ] A clear summary of total expenses and individual balances is provided
+  - [ ] Users should be provided with a clear summary of total expenses and individual balances.
 
 - Data Persistence
 
@@ -158,6 +158,9 @@ implement to enhance this app, if time permits.
 
   - [ ] The application provides an intuitive and seamless user experience
   - [ ] Responsive design ensures functionality across various devices and screen sizes
+
+- Export Functionality
+  - [ ] Users should have the ability to export the data as (e.g., PDF, Excel or Chart)
 
 ## Acknowledgements
 
