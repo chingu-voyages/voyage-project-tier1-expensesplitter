@@ -74,7 +74,6 @@ implement to enhance this app, if time permits.
   - [ ] Ability to add/update/remove member/participant to expense group utilizing
     - Member/Participant ID
     - Member/Participant Name
-  - [ ] Add and manage group members within each expense group
 
 - Expense Management
 
@@ -164,7 +163,7 @@ implement to enhance this app, if time permits.
 
 ## Acknowledgements
 
-We extend our heartfelt gratitude to the wider developer community for their invaluable insights and expertise, which consistently inspire and elevate our projects. Your contributions make our journey possible, and for that, we are deeply thankful.
+We extend our heartfelt gratitude to the wider developer community, whose invaluable insights and expertise consistently inspire and elevate our projects. We are also deeply thankful for the powerful tools and services provided by [Google](https://google.com), [Cloudinary](https://cloudinary.com), and [AWS](https://aws.amazon.com), which play a crucial role in making our journey possible. Your contributions and innovations drive our success, and for that, we are sincerely grateful.
 
 ## About Chingu
 
